@@ -1,1 +1,3 @@
-# python-api-challenge
+# Perfect_Vacation
+
+A pair of jupyter notebooks designed to automate the process of finding vacation destinations with ideal weather. One notebook selects a large set of random cities, gets their weather information from the open weather API, and exports the data as a csv. The other notebook reads the exported csv, filters the cities based on desired weather conditions, and finds hotels in the remaining cities.
